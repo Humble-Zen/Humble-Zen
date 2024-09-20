@@ -13,6 +13,9 @@ I'm a third-year electronics and computer engineering student. I enjoy creating 
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+## LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Humble_Zen/)
+
 ## 📬 Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-jaiswar/)
 
