@@ -17,7 +17,7 @@ I'm a third-year electronics and computer engineering student. I enjoy creating 
 ![My Awesome GIF](https://media.giphy.com/media/l1J9qXc4t2qkt8D3e/giphy.gif)
 
 ## 📬 Socials
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-jaiswar)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ajeet-jaiswar)
 
 
 
