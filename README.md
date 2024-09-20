@@ -16,6 +16,8 @@ I'm a third-year electronics and computer engineering student. I enjoy creating 
 ## LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Humble_Zen/)
 
+![LeetCode Streak](https://leetcard.jacoblin.cool/Humble_Zen?theme=light&fontSize=50)
+
 ## 📬 Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-jaiswar/)
 
