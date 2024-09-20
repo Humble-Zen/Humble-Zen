@@ -14,7 +14,7 @@ I'm a third-year electronics and computer engineering student. I enjoy creating 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📬 Socials
-- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-jaiswar/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-jaiswar/)
 
 
 
