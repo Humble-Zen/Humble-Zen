@@ -1,7 +1,7 @@
 ![](pixel-art-12601_256.gif)
 
 # Hi there, I'm Ajeet Abhimanyu Jaiswar! 👋
-I'm a third-year electronics and computer engineering student. I enjoy creating games and exploring the realms of game development.
+I'm a passionate game developer and third-year engineering student specializing in Electronics and Computer. I love creating and building games that combine technical skills with creativity. My experience spans game design, game mechanics, and coding, and I enjoy exploring ways to bring ideas to life.
 
 ## 🛠️ Tech-Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
